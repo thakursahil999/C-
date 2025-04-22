@@ -29,4 +29,24 @@ int main()
     int nm=n^m;
     cout<<nm;
     cout<<endl;
+
+    // **********Left Shift Operator********
+
+    int v=5;
+    cout<<(v<<1);
+    cout<<endl;
+    int v0=6;
+    cout<<(v0<<2);
+    cout<<endl;
+
+    // ************Right Shift************
+
+    int v1=5;
+    cout<<(v>>1);
+    cout<<endl;
+    int v2=6;
+    cout<<(v2>>2);
+    cout<<endl;
+
 }
+
