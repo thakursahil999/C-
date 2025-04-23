@@ -9,7 +9,9 @@ int main()
     {
         if(i%2!=0)
         {
-            continue; // Skip the statement
+            cout<<"Hello\n";
+            continue; // Skip the statement below it
+            cout<<"Odd Number";
         }
         else
         {
